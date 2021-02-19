@@ -50,7 +50,7 @@ In Microsoft Dataverse, activities are tasks that you or your teams perform when
   
  [Sample Code for Activity Entities](/dynamics365/customer-engagement/developer/sample-code-activity-entities)  
   
-## Related Sections  
+### Related Sections  
    
  [Server-side Synchronization Entities](server-side-synchronization-entities.md)  
   
