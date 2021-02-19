@@ -1,2 +1,2 @@
 ### createSolution page
- ![Slider control rendered on form](./studio/solutions/image/create-solution-image.PNG "Slider control rendered on form")  
+ ![Slider control rendered on form](./image/create-solution-image.png "Slider control rendered on form")  
