@@ -1,7 +1,8 @@
 ### Solutions
 
 # Card
-solution1
+The following is a selected list of community tools distributed via the XrmToolBox that you can use with Dataverse.
+
 |Tool  |Description  |
 |---------|---------|
 |[Attribute Manager](https://www.xrmtoolbox.com/plugins/DLaB.Xrm.AttributeManager/)|Used to rename/delete/or change the type of an attribute.|
@@ -12,8 +13,10 @@ solution1
 |[Plugin Trace Viewer](https://www.xrmtoolbox.com/plugins/Cinteros.XrmToolBox.PluginTraceViewer/)|Investigate the Plug-in Trace Log with easy filtering and display possibilities|
 |[User Settings Utility](https://www.xrmtoolbox.com/plugins/MsCrmTools.UserSettingsUtility/)|Manage users personal settings in bulk|
 
+Here is another tool, [Chromium Metadata Browser](https://community.dynamicslabs.io/feed/metadata-browser), that lets you browse metadata such as entities, attributes, relationships, option sets of Dataverse environements. It works with Microsoft Edge and Google Chrome browsers. 
+
 ![solution card](./image/single-solution.png "Solution Card")
 [!INCLUDE[Create Solution](./studio/solutions/create-solution.md)]
- Here is another tool, [Chromium Metadata Browser](https://community.dynamicslabs.io/feed/metadata-browser), that lets you browse metadata such as entities, attributes, relationships, option sets of Dataverse environements. It works with Microsoft Edge and Google Chrome browsers. 
+
 
 
