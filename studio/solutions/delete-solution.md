@@ -21,5 +21,4 @@
  `UserAccessviaWeb` indicates access from the Dataverse web application or Dynamics 365 for Outlook. `UserAccessviaWebServices` indicates a web service request from the SDK. The `AuditAction` enumeration is available to your code when you include `OptionSets.cs` in your application’s project.  
  
  #### Confirmation screen
- ![Slider control rendered on form](./image/create-solution-image.png "Slider control rendered on form")  
  ![Confirmation Screen](./images/delete-solution.png "Delete Confirmation screen")
