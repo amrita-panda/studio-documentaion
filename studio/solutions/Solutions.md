@@ -19,7 +19,7 @@ Here is another tool, [Chromium Metadata Browser](https://community.dynamicslabs
 - [!INCLUDE[Create Solution](./create-solution.md)]
 - [Delete Solution](./delete-solution.md)
 - [Edit Solution](./edit-solution.md)
-- [Blueprint](./blueprint-solution.md)
+- [Export](./export-solution.md)
 - [History](./history-solution.md)
 
 
