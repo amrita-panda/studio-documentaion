@@ -11,6 +11,7 @@ solution1
 |[Metadata Browser](https://www.xrmtoolbox.com/plugins/MsCrmTools.MetadataBrowser/)|Browse metadata from your Dataverse environment|
 |[Plugin Trace Viewer](https://www.xrmtoolbox.com/plugins/Cinteros.XrmToolBox.PluginTraceViewer/)|Investigate the Plug-in Trace Log with easy filtering and display possibilities|
 |[User Settings Utility](https://www.xrmtoolbox.com/plugins/MsCrmTools.UserSettingsUtility/)|Manage users personal settings in bulk|
+
 ![solution card](./image/single-solution.png "Solution Card")
  Here is another tool, [Chromium Metadata Browser](https://community.dynamicslabs.io/feed/metadata-browser), that lets you browse metadata such as entities, attributes, relationships, option sets of Dataverse environements. It works with Microsoft Edge and Google Chrome browsers. 
 [!INCLUDE[Create Solution](./studio/solutions/create-solution.md)]
