@@ -20,6 +20,6 @@ Here is another tool, [Chromium Metadata Browser](https://community.dynamicslabs
 - [Delete Solution](./delete-solution.md)
 - [Edit Solution](./edit-solution.md)
 - [Blueprint](./blueprint-solution.md)
-- [History](./history.md)
+- [History](./history-solution.md)
 
 
